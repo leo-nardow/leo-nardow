@@ -2,7 +2,7 @@
 
 - 🧠 **Cursando:** Engenharia de Instrumentação, Automação e Robótica
 - 🧠 **Cursando:** Ciencia da Computação
-- 🌱 **Aprendendo:** .NET, C#, C++, C, Python
+- 🌱 **Aprendendo:** .NET, C#, C++, Python
 
 ##
 
