@@ -2,7 +2,7 @@
 
 - 🧠 **Cursando:** Engenharia de Instrumentação, Automação e Robótica
 - 🧠 **Cursando:** Ciencia da Computação
-- 💻 **Estudando:** Java, .NET, C#
+- 💻 **Estudando:** Java, Spring Boot, Oracle Cloud
 
 ##
 
