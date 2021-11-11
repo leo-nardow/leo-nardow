@@ -1,8 +1,8 @@
-## Olá! Eu sou o Léo 👨‍💻
+## Hi! I'm Léo 👨‍💻
 
-- 🧠 **Cursando:** Engenharia de Instrumentação, Automação e Robótica
-- 🧠 **Cursando:** Ciencia da Computação
-- 💻 **Estudando:** Java, Spring Boot, Oracle Cloud
+- 🧠 **Majoring:** Bachelor of Engineering in Instrumentation, Automation and Robotics
+- 🧠 **Majoring:** Bachelor of Computer Science
+- 💻 **I'm currently working with:** Java, Spring Boot, Oracle Cloud
 
 ##
 
@@ -40,7 +40,7 @@
 </div>
 
 ## 
-  ### Bancos de Dados:
+  ### Databases:
  <a href="https://github.com/leo-nardow">
 <div style="display: inline_block">
   <img align="center" alt="Leo-MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
@@ -50,7 +50,7 @@
   
 ## 
 
- ### **Contato:** 
+ ### **Contact me:** 
   [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/leo-nardow/)
 
 <a href="https://github.com/leo-nardow">
