@@ -2,7 +2,7 @@
 
 - 🧠 **Majoring:** Bachelor of Engineering in Instrumentation, Automation and Robotics
 - 🧠 **Majoring:** Bachelor of Computer Science
-- 💻 **I'm currently working with:** Java, Spring Boot, Oracle Cloud
+- 💻 **I'm currently working with:** Java, Spring Boot, SQL and Angular
 
 ##
 
