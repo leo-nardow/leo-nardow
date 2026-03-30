@@ -1,8 +1,8 @@
 ## Hi! I'm Léo 👨‍💻
 
-- 🧠 **Majoring:** Bachelor of Engineering in Instrumentation, Automation and Robotics
-- 🧠 **Majoring:** Bachelor of Computer Science
-- 💻 **I'm currently working with:** Java, Spring Boot, SQL and Angular
+- 🧠 **MBA:** MBA in Software Engineer
+- 🧠 **Major:** Bachelor of Science and Technology
+- 💻 **I'm currently working with:** Java, Spring Boot, SQL, Angular, AWS and AI
 
 ##
 
